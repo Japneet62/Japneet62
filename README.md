@@ -88,7 +88,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://pavlovia.org/" rel="noreferrer"> 
-    <img src="https://pavlovia.org/assets/pavlovia_logo_black.png" alt="Neurobs" width="60" height="60"/> 
+    <img src="https://pavlovia.org/assets/pavlovia_logo_black.png" alt="Pavlovia" width="40" height="40"/> 
   </a>
   
   
