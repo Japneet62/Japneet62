@@ -100,7 +100,7 @@ Here are some ideas to get you started:
   </a>
 
    <a href="  https://www.brainvoyager.com/" rel="noreferrer"> 
-    <img src="https://pstnet.com/wp-content/uploads/2017/08/BrainVoyager.png" alt="BrainVoyager" width="40" height="40"/> 
+    <img src="https://pstnet.com/wp-content/uploads/2017/08/BrainVoyager.png" alt="BrainVoyager" width="70" height="40"/> 
   </a>
   
   
