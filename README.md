@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   </a> 
 
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer"> 
-    <img src="https://www.cleanpng.com/png-spss-modeler-ibm-computer-software-statistics-boar-2325863/" alt="eeglab" width="40" height="40"/> 
+    <img src="https://www.cleanpng.com/png-spss-modeler-ibm-computer-software-statistics-boar-2325863/" alt="spss" width="40" height="40"/> 
   </a> 
 
 
