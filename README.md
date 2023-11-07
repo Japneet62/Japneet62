@@ -2,7 +2,7 @@
 <h3 align="center">M.Sc. Neurocognitive Psychology</h3>
 
 - 🔭 I’m currently working on [mKogito]
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning Applications**
 - 📫 How to reach me **japneet62@gmail.com**
 - 
 <h3 align="left">Connect with me:</h3>
