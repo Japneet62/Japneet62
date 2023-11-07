@@ -67,7 +67,9 @@ Here are some ideas to get you started:
     <img src="https://fsl.fmrib.ox.ac.uk/fsl/wiki_static/fsl/img/fsl-logo-x2.png" alt="PowerBI" width="40" height="40"/> 
   </a> 
 
-
+  <a href="https://dev.java/learn/language-basics/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="PowerBI" width="40" height="40"/> 
+  </a> 
 
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
