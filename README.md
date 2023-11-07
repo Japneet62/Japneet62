@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://www.neurobs.com/menu_presentation/menu_features/features_overview" rel="noreferrer"> 
-    <img src="https://psychopy.org/_static/psychopyLogoType_h240.png" alt="PsychoPy" width="60" height="40"/> 
+    <img src="" alt="Neurobs" width="60" height="40"/> 
   </a>
 
   
