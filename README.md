@@ -91,6 +91,9 @@ Here are some ideas to get you started:
     <img src="https://pavlovia.org/assets/pavlovia_logo_black.png" alt="Pavlovia" width="40" height="40"/> 
   </a>
   
+   <a href="https://www.latex-project.org/" rel="noreferrer"> 
+    <img src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png" alt="Pavlovia" width="40" height="40"/> 
+  </a>
   
   
   </a>
