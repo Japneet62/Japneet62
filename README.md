@@ -59,6 +59,13 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2880px-SAS_logo_horiz.svg.png" alt="SAS" width="40" height="40"/> 
   </a> 
 
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="PowerBI" width="40" height="40"/> 
+  </a> 
+
+
+
+
 
 
   
