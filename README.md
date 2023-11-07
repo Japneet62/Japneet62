@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Japneet</h1>
 <h3 align="center">M.Sc. Neurocognitive Psychology</h3>
 
--  I’m currently working on [mKogito]
-
+-  I’m currently working on 
 - 🌱 I’m currently learning **Machile Learning**
 
-- 📫 How to reach me **japneet62@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,12 +16,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [mKogito]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: japneet62@gmail.com
+- 📫 How to reach me **japneet62@gmail.com** 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
