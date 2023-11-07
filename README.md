@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [mKogito]
 - 🌱 I’m currently learning **Machine Learning Applications**
 - 📫 How to reach me **japneet62@gmail.com**
-- 
+- Neuroimaging research methods: fMRI, MEG, EEG, Eye tracking, DTI
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://de.linkedin.com/in/japneetbhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="japneetserver" height="30" width="40" /></a>
