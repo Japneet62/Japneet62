@@ -74,6 +74,18 @@ Here are some ideas to get you started:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.psychopy.org/" rel="noreferrer"> 
+    <img src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://psychopy.org/_static/psychopyLogoType_h240.png)" alt="PsychoPy" width="40" height="40"/> 
+  </a>
+
+  
+  
+  
   
   </a>
 </p>
