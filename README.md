@@ -55,9 +55,12 @@ Here are some ideas to get you started:
     <img src="https://github.com/Japneet62/Japneet62/blob/main/kisspng-spss-modeler-ibm-computer-software-statistics-boards-5b05cf780a2237.4076705215271074480415.png" alt="spss" width="40" height="40"/> 
   </a> 
 
+ <a href="https://www.sas.com/sas/training/academic/student-skill-builder-emea.html?utm_source=google&utm_medium=cpc&utm_campaign=non-non-emea&gad=1&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBi2I4u_yl6pyX7RnYtfBzZUI32xENAb4IYnirRMdUAhRFrtHclZPVBoCZ3AQAvD_BwE" target="_blank" rel="noreferrer"> 
+    <img src="https://de.wikipedia.org/wiki/SAS_Institute#/media/Datei:SAS_logo_horiz.svg" alt="SAS" width="40" height="40"/> 
+  </a> 
 
 
-  
+
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
