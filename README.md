@@ -87,6 +87,9 @@ Here are some ideas to get you started:
     <img src="https://imotions.com/wp-content/themes/twentytwentytwo_child/assets/images/imotions_logo.svg" alt="Neurobs" width="60" height="40"/> 
   </a>
   
+  <a href="https://pavlovia.org/" rel="noreferrer"> 
+    <img src="https://workshops.psychopy.org/_images/pavlovia.png" alt="Neurobs" width="60" height="40"/> 
+  </a>
   
   
   
