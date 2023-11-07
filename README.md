@@ -56,7 +56,7 @@ Here are some ideas to get you started:
   </a> 
 
  <a href="https://www.sas.com/sas/training/academic/student-skill-builder-emea.html?utm_source=google&utm_medium=cpc&utm_campaign=non-non-emea&gad=1&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBi2I4u_yl6pyX7RnYtfBzZUI32xENAb4IYnirRMdUAhRFrtHclZPVBoCZ3AQAvD_BwE" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2880px-SAS_logo_horiz.svg.png" alt="SAS" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/2880px-SAS_logo_horiz.svg.png" alt="SAS" width="60" height="40"/> 
   </a> 
 
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
