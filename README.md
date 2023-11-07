@@ -83,6 +83,10 @@ Here are some ideas to get you started:
     <img src="https://www.neurobs.com/images/package_player_img" alt="Neurobs" width="60" height="40"/> 
   </a>
 
+ <a href="https://imotions.com/applications/consumer-insights/?utm_source=google&utm_medium=cpc&utm_campaign=Human_Behavior_Software&utm_content=&utm_term=imotions&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBh9ZCflw0QQpANQnuDfmeRLlTGlR4vNs0RujTpjBtATM9iw_JxwI8xoCi0oQAvD_BwE" rel="noreferrer"> 
+    <img src="https://www.neurobs.com/images/package_player_img" alt="Neurobs" width="60" height="40"/> 
+  </a>
+  
   
   
   
