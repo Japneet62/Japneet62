@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   </a>
 
  <a href="https://imotions.com/applications/consumer-insights/?utm_source=google&utm_medium=cpc&utm_campaign=Human_Behavior_Software&utm_content=&utm_term=imotions&gclid=CjwKCAiA3aeqBhBzEiwAxFiOBh9ZCflw0QQpANQnuDfmeRLlTGlR4vNs0RujTpjBtATM9iw_JxwI8xoCi0oQAvD_BwE" rel="noreferrer"> 
-    <img src="https://www.neurobs.com/images/package_player_img" alt="Neurobs" width="60" height="40"/> 
+    <img src="https://imotions.com/wp-content/themes/twentytwentytwo_child/assets/images/imotions_logo.svg" alt="Neurobs" width="60" height="40"/> 
   </a>
   
   
