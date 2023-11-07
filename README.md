@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://www.neurobs.com/menu_presentation/menu_features/features_overview" rel="noreferrer"> 
-    <img src="" alt="Neurobs" width="60" height="40"/> 
+    <img src="https://www.neurobs.com/images/package_player_img" alt="Neurobs" width="60" height="40"/> 
   </a>
 
   
