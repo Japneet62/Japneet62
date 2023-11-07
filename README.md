@@ -43,7 +43,6 @@ Here are some ideas to get you started:
     <img src="https://www.fieldtriptoolbox.org/assets/img/fieldtriplogo-high.png" alt="eeglab" width="40" height="40"/> 
   </a> 
 
-  
   <a href="https://www.fil.ion.ucl.ac.uk/spm/docs/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Japneet62/Japneet62/blob/main/download.png" alt="eeglab" width="40" height="40"/> 
   </a> 
