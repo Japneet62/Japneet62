@@ -51,9 +51,10 @@ Here are some ideas to get you started:
   <a href="https://sccn.ucsd.edu/eeglab/index.php" target="_blank" rel="noreferrer"> 
     <img src="https://sccn.ucsd.edu/images/sccn.svg" alt="eeglab" width="40" height="40"/> 
   </a> 
-  
 
-
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer"> 
+    <img src="https://www.cleanpng.com/png-spss-modeler-ibm-computer-software-statistics-boar-2325863/" alt="eeglab" width="40" height="40"/> 
+  </a> 
 
 
 
