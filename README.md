@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://de.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png]" alt="matlab" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
