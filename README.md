@@ -99,9 +99,8 @@ Here are some ideas to get you started:
     <img src="https://surfer.nmr.mgh.harvard.edu/landing/images/brain.png" alt="Freesurfer" width="40" height="40"/> 
   </a>
 
-  https://www.brainvoyager.com/
-   <a href="https://surfer.nmr.mgh.harvard.edu/" rel="noreferrer"> 
-    <img src="https://pstnet.com/wp-content/uploads/2017/08/BrainVoyager.png" alt="Freesurfer" width="40" height="40"/> 
+   <a href="  https://www.brainvoyager.com/" rel="noreferrer"> 
+    <img src="https://pstnet.com/wp-content/uploads/2017/08/BrainVoyager.png" alt="BrainVoyager" width="40" height="40"/> 
   </a>
   
   
