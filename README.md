@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Japneet</h1>
 <h3 align="center">M.Sc. Neurocognitive Psychology</h3>
 
-- 🔭 I’m currently working on the mobile Health Application **Mobile Kognition (mKogito)**
+- 🔭 I’m currently working on the mobile Health Application **Mobile Cognition (mKogito)**
 - 🌱 I’m currently learning **Machine Learning Applications**
 - 📫 How to reach me **japneet62@gmail.com**
 - Proficient in Neuroimaging research methods: fMRI, MEG, EEG, Eye tracking, DTI
