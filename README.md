@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  
+
   <a href="https://de.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a>
@@ -38,6 +38,22 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+
+  <a href="https://www.fieldtriptoolbox.org/getting_started/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.fieldtriptoolbox.org/assets/img/fieldtriplogo-high.png" alt="eeglab" width="40" height="40"/> 
+  </a> 
+
+  
+  <a href="https://sccn.ucsd.edu/eeglab/index.php" target="_blank" rel="noreferrer"> 
+    <img src="" alt="eeglab" width="40" height="40"/> 
+  </a> 
+  
+
+
+
+
+
+  
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
