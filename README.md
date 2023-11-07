@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   </a> 
 
   <a href="https://www.fieldtriptoolbox.org/getting_started/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.fieldtriptoolbox.org/assets/img/fieldtriplogo-high.png" alt="eeglab" width="40" height="40"/> 
+    <img src="https://www.fieldtriptoolbox.org/assets/img/fieldtriplogo-high.png" alt="eeglab" width="60" height="40"/> 
   </a> 
 
   <a href="https://www.fil.ion.ucl.ac.uk/spm/docs/" target="_blank" rel="noreferrer"> 
